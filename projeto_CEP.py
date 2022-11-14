@@ -1,4 +1,4 @@
-#Importar bibliotecas
+
 import json
 import requests
 import PySimpleGUI as sg
@@ -31,6 +31,7 @@ while True:
             cidade = dic_requisicao['localidade']
             bairro = dic_requisicao['bairro']
             resultado = f'''
+            
                         CEP: {cep_endereco}
                         Logradouro: {logradouro}
                         Complemento:{complemento}
