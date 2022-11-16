@@ -11,10 +11,12 @@
   
   <h3>Funcionalidade:</h3>
   
-  Ao informar o cep e clicar no botão 'consultar', temos as informações de endereço de acordo com cep informado.<br> As informações são: CEP informado, Logradouro, complemento, cidade, bairro e UF.
+  Ao informar o cep e clicar no botão 'consultar', temos as informações de endereço de acordo com cep informado.<br> 
+  As informações são:CEP informado, Logradouro, complemento, cidade, bairro e UF.
 ![interface com cep](https://user-images.githubusercontent.com/115845859/202259686-294ec675-e374-4f82-9af9-e87f2180f588.PNG)
 
-<p> Se o usuário informar o cep usando caracteres como  "-" já que no CEP é utilizado como padrão ou até mesmo "." o sistema reconhece e busca normalmente as informações.</p>
+<p> Se o usuário informar o cep usando caracteres como  "-" já que no CEP é utilizado como padrão ou até mesmo "." o sistema<br> 
+ reconhece e busca normalmente as informações.</p>
   
 ![interface com caractere](https://user-images.githubusercontent.com/115845859/202280213-754c2c94-0035-483c-9123-b0fd51e7ebf1.PNG)
 
